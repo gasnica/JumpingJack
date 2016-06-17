@@ -1,0 +1,11 @@
+Build
+Library
+obj
+Temp
+Debug/**/*
+ipch/**/*
+Release/**/*
+**/*.suo
+**/*.sdf
+**/*.opensdf
+**/.DS_Store
